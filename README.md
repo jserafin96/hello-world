@@ -1,2 +1,2 @@
 # hello-world
-just a repository
+seeing how this thing works 
